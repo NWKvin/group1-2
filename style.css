@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
 
 * {
-  font-family: "Inter", Times New Roman;
+  font-family: "Inter", "Times New Romans";
   font-size: 12pt;
   margin: 0;
   box-sizing: border-box;
@@ -29,7 +29,7 @@ body {
 
 .chat {
   background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  box-shadow: 10px 10px 0px rgb(245, 1, 54);
   overflow: scroll;
   height: 100%;
   display: flex;
